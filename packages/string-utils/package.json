@@ -1,0 +1,13 @@
+{
+  "name": "@hatemjaber/string-utils",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/hatemjaber/npm-pkg.git",
+    "directory": "packages/string-utils"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
